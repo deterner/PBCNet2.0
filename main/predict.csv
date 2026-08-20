@@ -1,0 +1,5 @@
+lig1,lig2,Label,Label1,Label2,dir_1,dir_2,pred_delta_pIC50
+epinephrine,epinephrine,0.0,0.0,0.0,C:\Users\jihun\python_practices\pbcnet\PBCNet2.0\main\epinephrine.pkl,C:\Users\jihun\python_practices\pbcnet\PBCNet2.0\main\epinephrine.pkl,-0.07973191142082214
+epinephrine,norepinephrine,0.0,0.0,0.0,C:\Users\jihun\python_practices\pbcnet\PBCNet2.0\main\epinephrine.pkl,C:\Users\jihun\python_practices\pbcnet\PBCNet2.0\main\norepinephrine.pkl,1.0598180294036865
+norepinephrine,epinephrine,0.0,0.0,0.0,C:\Users\jihun\python_practices\pbcnet\PBCNet2.0\main\norepinephrine.pkl,C:\Users\jihun\python_practices\pbcnet\PBCNet2.0\main\epinephrine.pkl,-1.051961064338684
+norepinephrine,norepinephrine,0.0,0.0,0.0,C:\Users\jihun\python_practices\pbcnet\PBCNet2.0\main\norepinephrine.pkl,C:\Users\jihun\python_practices\pbcnet\PBCNet2.0\main\norepinephrine.pkl,-0.07973191142082214
