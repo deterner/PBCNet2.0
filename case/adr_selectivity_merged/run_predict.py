@@ -1,9 +1,11 @@
 """
 Pairwise PBCNet2.0 relative binding-affinity predictions for epinephrine vs.
-norepinephrine at alpha1A-AR and beta1-AR, using ONE shared pocket per
-subtype (see README.md and merge_pockets.py for how the shared pocket was
-built by superimposing the norepinephrine-bound structure onto the
-epinephrine-bound one).
+norepinephrine at alpha1A-AR, beta1-AR, beta2-AR, and beta3-AR, using ONE
+shared pocket per subtype. alpha1A/beta1 use a same-subtype merge
+(merge_pockets.py); beta2/beta3 have no native norepinephrine structure, so
+they use a cross-subtype pose transfer from beta1's norepinephrine
+structure instead (merge_pockets_cross_subtype.py) -- see README.md for
+details and caveats.
 
 Usage (from repo root, with model deps installed):
     python case/adr_selectivity_merged/run_predict.py
@@ -26,6 +28,10 @@ entries = {
     "alpha1A_norepi": os.path.join(HERE, "alpha1A/norepinephrine.pkl"),
     "beta1_epi":      os.path.join(HERE, "beta1/epinephrine.pkl"),
     "beta1_norepi":   os.path.join(HERE, "beta1/norepinephrine.pkl"),
+    "beta2_epi":      os.path.join(HERE, "beta2/epinephrine.pkl"),
+    "beta2_norepi":   os.path.join(HERE, "beta2/norepinephrine.pkl"),
+    "beta3_epi":      os.path.join(HERE, "beta3/epinephrine.pkl"),
+    "beta3_norepi":   os.path.join(HERE, "beta3/norepinephrine.pkl"),
 }
 
 names = list(entries.keys())
