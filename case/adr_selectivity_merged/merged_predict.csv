@@ -1,0 +1,17 @@
+lig1,lig2,Label,Label1,Label2,dir_1,dir_2,pred_delta_pIC50
+alpha1A_epi,alpha1A_epi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/epinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/epinephrine.pkl,-0.0797319114208221
+alpha1A_epi,alpha1A_norepi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/epinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/norepinephrine.pkl,1.0469048023223877
+alpha1A_epi,beta1_epi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/epinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/epinephrine.pkl,-0.8165876865386963
+alpha1A_epi,beta1_norepi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/epinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/norepinephrine.pkl,0.1592980176210403
+alpha1A_norepi,alpha1A_epi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/norepinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/epinephrine.pkl,-1.1975048780441284
+alpha1A_norepi,alpha1A_norepi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/norepinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/norepinephrine.pkl,-0.0797319114208221
+alpha1A_norepi,beta1_epi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/norepinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/epinephrine.pkl,-1.2814522981643677
+alpha1A_norepi,beta1_norepi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/norepinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/norepinephrine.pkl,-0.6183266043663025
+beta1_epi,alpha1A_epi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/epinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/epinephrine.pkl,0.8906677961349487
+beta1_epi,alpha1A_norepi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/epinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/norepinephrine.pkl,1.3625376224517822
+beta1_epi,beta1_epi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/epinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/epinephrine.pkl,-0.0797319114208221
+beta1_epi,beta1_norepi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/epinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/norepinephrine.pkl,1.7557874917984009
+beta1_norepi,alpha1A_epi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/norepinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/epinephrine.pkl,-0.2717575430870056
+beta1_norepi,alpha1A_norepi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/norepinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/alpha1A/norepinephrine.pkl,0.661072313785553
+beta1_norepi,beta1_epi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/norepinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/epinephrine.pkl,-1.7060623168945312
+beta1_norepi,beta1_norepi,0.0,0.0,0.0,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/norepinephrine.pkl,/home/user/PBCNet2.0/case/adr_selectivity_merged/beta1/norepinephrine.pkl,-0.0797319114208221
