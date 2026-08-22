@@ -1,0 +1,17 @@
+lig1,lig2,dir_1,dir_2,Label,Label1,Label2,pred_delta_pIC50
+norepinephrine_alpha2A,norepinephrine_alpha2A,case/alpha2A_epi/norepinephrine_alpha2A.pkl,case/alpha2A_epi/norepinephrine_alpha2A.pkl,0.0,0.0,0.0,-0.07973191142082214
+norepinephrine_alpha2A,norepinephrine_generic,case/alpha2A_epi/norepinephrine_alpha2A.pkl,case/alpha2A_epi/norepinephrine_generic.pkl,0.0,0.0,0.0,0.5309968590736389
+norepinephrine_alpha2A,epinephrine_alpha2A,case/alpha2A_epi/norepinephrine_alpha2A.pkl,case/alpha2A_epi/epinephrine_alpha2A.pkl,0.0,0.0,0.0,-1.1202574968338013
+norepinephrine_alpha2A,epinephrine_generic,case/alpha2A_epi/norepinephrine_alpha2A.pkl,case/alpha2A_epi/epinephrine_generic.pkl,0.0,0.0,0.0,-0.9078861474990845
+norepinephrine_generic,norepinephrine_alpha2A,case/alpha2A_epi/norepinephrine_generic.pkl,case/alpha2A_epi/norepinephrine_alpha2A.pkl,0.0,0.0,0.0,-0.7561199069023132
+norepinephrine_generic,norepinephrine_generic,case/alpha2A_epi/norepinephrine_generic.pkl,case/alpha2A_epi/norepinephrine_generic.pkl,0.0,0.0,0.0,-0.07973191142082214
+norepinephrine_generic,epinephrine_alpha2A,case/alpha2A_epi/norepinephrine_generic.pkl,case/alpha2A_epi/epinephrine_alpha2A.pkl,0.0,0.0,0.0,-1.37565016746521
+norepinephrine_generic,epinephrine_generic,case/alpha2A_epi/norepinephrine_generic.pkl,case/alpha2A_epi/epinephrine_generic.pkl,0.0,0.0,0.0,-1.0519609451293945
+epinephrine_alpha2A,norepinephrine_alpha2A,case/alpha2A_epi/epinephrine_alpha2A.pkl,case/alpha2A_epi/norepinephrine_alpha2A.pkl,0.0,0.0,0.0,1.1835848093032837
+epinephrine_alpha2A,norepinephrine_generic,case/alpha2A_epi/epinephrine_alpha2A.pkl,case/alpha2A_epi/norepinephrine_generic.pkl,0.0,0.0,0.0,1.310991883277893
+epinephrine_alpha2A,epinephrine_alpha2A,case/alpha2A_epi/epinephrine_alpha2A.pkl,case/alpha2A_epi/epinephrine_alpha2A.pkl,0.0,0.0,0.0,-0.07973191142082214
+epinephrine_alpha2A,epinephrine_generic,case/alpha2A_epi/epinephrine_alpha2A.pkl,case/alpha2A_epi/epinephrine_generic.pkl,0.0,0.0,0.0,-0.3187970519065857
+epinephrine_generic,norepinephrine_alpha2A,case/alpha2A_epi/epinephrine_generic.pkl,case/alpha2A_epi/norepinephrine_alpha2A.pkl,0.0,0.0,0.0,0.8949989080429077
+epinephrine_generic,norepinephrine_generic,case/alpha2A_epi/epinephrine_generic.pkl,case/alpha2A_epi/norepinephrine_generic.pkl,0.0,0.0,0.0,1.0598176717758179
+epinephrine_generic,epinephrine_alpha2A,case/alpha2A_epi/epinephrine_generic.pkl,case/alpha2A_epi/epinephrine_alpha2A.pkl,0.0,0.0,0.0,0.2604609727859497
+epinephrine_generic,epinephrine_generic,case/alpha2A_epi/epinephrine_generic.pkl,case/alpha2A_epi/epinephrine_generic.pkl,0.0,0.0,0.0,-0.07973191142082214
